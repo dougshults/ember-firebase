@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/emberStarter/tmp/broccoli_merge_trees-input_base_path-jBrNanaI.tmp/16/initializers/export-application-global.js

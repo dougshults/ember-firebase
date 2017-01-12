@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/emberStarter/tmp/funnel-input_base_path-Tc8jCaBY.tmp/0/index.js

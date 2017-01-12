@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/emberStarter/node_modules/ember-data/addon/adapter.js

@@ -1,0 +1,12 @@
+{{outlet}}
+<h1> Events </h1>
+{{#each model as |event|}}
+<div class="well">
+<h4>{{#link-to 'events.edit' event.id}}{{event.title}}{{/link-to}}</h4>
+<p> Date:{{formatDate event.date}} </p>
+<p>{{event.description}}</p>
+  <button{{action 'deleteEvent' event.id}} class="btn btn-danger">Delete</button>
+</div>
+{{/each}}
+
+

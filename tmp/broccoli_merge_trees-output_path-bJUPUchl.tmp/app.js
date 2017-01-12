@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/emberStarter/app/app.js
